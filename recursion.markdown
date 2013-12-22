@@ -179,8 +179,8 @@ Hint: what is the base case here? How can you check if you're there?
 
 <exercise>
 
-Write the function `(max-element a-seq)` that computes returns the maximum
-element in `a-seq` or `nil` if `a-seq` is empty?
+Write the function `(max-element a-seq)` that returns the maximum element in
+`a-seq` or `nil` if `a-seq` is empty?
 
 You can use the function `(max a b)` that returns the greater of `a` and `b`.
 
